@@ -1,6 +1,6 @@
-[![Clone DatoCMS starter template](https://dashboard.datocms.com/clone/button.svg)](https://dashboard.datocms.com/clone?projectId=115694&name=TEST-STARTER-TEMPLATE)
+[Clone DatoCMS starter template](https://dashboard.datocms.com/clone?projectId=115694&name=TEST-STARTER-TEMPLATE)
 
-[![Clone & Deploy starter template](https://dashboard.datocms.com/clone/button.svg)](https://dashboard.datocms.com/deploy?repo=cheuk-at-greenberry/test-datocms-starter-template)
+[Clone & Deploy starter template](https://dashboard.datocms.com/deploy?repo=cheuk-at-greenberry/test-datocms-starter-template)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Read the full tutorial on how to build a [landing page builder](https://www.datocms.com/blog/landing-page-builder), or get started right away with DatoCMS [landing page template](https://www.datocms.com/marketplace/starters/landing-page-template).
