@@ -1,7 +1,7 @@
 {
   "name": "TEST STARTERTEMPLATE - Next.js landing page template",
   "description": "Simple landing page website built with Next.js and DatoCMS",
-  "previewImage": "https://www.datocms-assets.com/205/1652096903-landing-page-template.png",
+  "previewImage": "https://www.blauwwwdruk.nl/wp-content/uploads/2021/09/Logo-Greenberry-paars.png",
   "datocmsProjectId": "115694",
   "deploymentType": "static",
   "buildCommand": "npm run build",
